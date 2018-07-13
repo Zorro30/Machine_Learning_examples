@@ -1,5 +1,5 @@
 # Machine_Learning_examples
-This repository consists of ML codes from Sentdex's youtube channel and the 
+This repository consists of ML codes from Sentdex's youtube channel and the ML articles I found on the internet.
 
 1) [Handwritten_Digit_recognition](https://github.com/Zorro30/Machine_Learning_examples/blob/master/digit_recognition.py)
 
