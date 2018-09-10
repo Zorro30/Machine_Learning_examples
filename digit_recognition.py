@@ -18,12 +18,12 @@ actual_label = data[21000:, 0]
 
 #======================================================================== 
 # To plot the particular value and print the same.
-# d = xtest[8]
+# d = xtest[9]
 # d.shape= (28,28)  #plotting the data so that we can see if it matches.
 # pt.imshow(d,cmap='gray')
 # pt.show()
 
-#print (clf.predict([xtest[8]]))
+# print (clf.predict([xtest[9]]))
 #========================================================================
 p = clf.predict(xtest)
 count = 0
